@@ -3,7 +3,7 @@ calTots = [0]
 elf = 0
 highest = 0
 stockedElf = 0
-with open("day-one-data.txt") as file:
+with open("day1-data.txt") as file:
     for line in file:
         line = line.rstrip()
         if (line != ""):
