@@ -1,4 +1,6 @@
-############ Part 2
+########### Part 2
+
+# Option 1
 # A = rock | B = paper | C = scissor
 # X = lose | Y = draw | Z = win
 hands = ["A", "B", "C"]
